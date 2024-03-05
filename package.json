@@ -1,5 +1,5 @@
 {
-  "name": "@ice0wyb/mteateatea",
+  "name": "@ice0wyb/teateatea",
   "version": "1.1.0",
   "description": "Uniapp小程序开发脚手架",
   "author": "Czy",
@@ -16,5 +16,13 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/ice0wyb"
   },
-  "repository": "https://github.com/ice0wyb/teateatea"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice0wyb/teateatea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ice0wyb/teateatea/issues"
+  },
+  "homepage": "https://github.com/ice0wyb/teateatea#readme",
+  "main": "index.js"
 }
