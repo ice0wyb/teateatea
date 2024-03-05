@@ -16,13 +16,8 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/ice0wyb"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ice0wyb/teateatea.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ice0wyb/teateatea/issues"
-  },
-  "homepage": "https://github.com/ice0wyb/teateatea#readme",
-  "main": "index.js"
+  "repository": "https://github.com/ice0wyb/teateatea",
+  "devDependencies": {
+        "webpack": "^4.29.6"
+    }
 }
