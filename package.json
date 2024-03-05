@@ -1,6 +1,6 @@
 {
   "name": "@ice0wyb/teateatea",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Uniapp小程序开发脚手架",
   "author": "Czy",
   "license": "MIT",
@@ -18,6 +18,9 @@
   },
   "repository": "https://github.com/ice0wyb/teateatea",
   "devDependencies": {
+        "webpack": "^4.29.6"
+    },
+  "dependents ":{
         "webpack": "^4.29.6"
     }
 }
